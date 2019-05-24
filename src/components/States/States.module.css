@@ -1,0 +1,33 @@
+.stateSection {
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    width: 350px;
+    margin: 0 auto 50px;
+}
+
+.title {
+    text-align: center;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.statList {
+    list-style: none;
+    display: flex;
+}
+
+.item {
+    display: inline-block;
+    padding: 10px;
+    width: 20%;
+    color: #fff;
+    background: purple;
+    text-align: center;
+}
+.item:nth-child(2n) {
+    background: teal;
+}
+
+.label {
+    display: block;
+}

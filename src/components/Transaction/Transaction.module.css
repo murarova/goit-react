@@ -1,0 +1,23 @@
+.transactionHistory {
+    margin: 20px auto 50px;
+    width: 80%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.head {
+    height: 50px;
+    background-color: teal;
+    color: #fff;
+}
+
+.body {
+    text-align: center;
+}
+
+.row {
+    height: 30px;
+}
+.row:nth-child(2n) {
+    background: rgb(201, 228, 201);
+}
+
