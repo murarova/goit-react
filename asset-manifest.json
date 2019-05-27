@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react/static/css/main.b0f2307e.chunk.css",
+    "main.js": "/goit-react/static/js/main.ceca91b9.chunk.js",
+    "main.js.map": "/goit-react/static/js/main.ceca91b9.chunk.js.map",
+    "runtime~main.js": "/goit-react/static/js/runtime~main.3c88ed6c.js",
+    "runtime~main.js.map": "/goit-react/static/js/runtime~main.3c88ed6c.js.map",
+    "static/js/2.b100127d.chunk.js": "/goit-react/static/js/2.b100127d.chunk.js",
+    "static/js/2.b100127d.chunk.js.map": "/goit-react/static/js/2.b100127d.chunk.js.map",
+    "index.html": "/goit-react/index.html",
+    "precache-manifest.fad0d8fa3abc74fd114b4049659f2b48.js": "/goit-react/precache-manifest.fad0d8fa3abc74fd114b4049659f2b48.js",
+    "service-worker.js": "/goit-react/service-worker.js",
+    "static/css/main.b0f2307e.chunk.css.map": "/goit-react/static/css/main.b0f2307e.chunk.css.map"
+  }
+}
